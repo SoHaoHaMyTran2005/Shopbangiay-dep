@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shopbangiay-dep/static/css/main.4e1789c6.css",
+    "main.js": "/Shopbangiay-dep/static/js/main.a091fe37.js",
+    "index.html": "/Shopbangiay-dep/index.html",
+    "main.4e1789c6.css.map": "/Shopbangiay-dep/static/css/main.4e1789c6.css.map",
+    "main.a091fe37.js.map": "/Shopbangiay-dep/static/js/main.a091fe37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e1789c6.css",
+    "static/js/main.a091fe37.js"
+  ]
+}
